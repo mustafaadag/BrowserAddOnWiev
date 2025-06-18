@@ -1,0 +1,24 @@
+[
+  {
+    "Browser": "Edge",
+    "Id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+    "Name": "__MSG_extName__",
+    "Version": "1.92.1",
+    "Description": "__MSG_extDesc__",
+    "Author": "{\r\n  \"email\": \"docs-hosted-app-own@google.com\"\r\n}",
+    "HomepageUrl": null,
+    "Permissions": null,
+    "Type": "Extension"
+  },
+  {
+    "Browser": "Edge",
+    "Id": "jmjflgjpcpepeafmmgdpfkogkghcpiha",
+    "Name": "Edge relevant text changes",
+    "Version": "1.2.1",
+    "Description": "Edge relevant text changes on select websites to improve user experience and precisely surfaces the action they want to take.",
+    "Author": null,
+    "HomepageUrl": null,
+    "Permissions": null,
+    "Type": "Extension"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "Browser": "Internet Explorer",
+    "Id": "{1FD49718-1D00-4B19-AF5F-070AF6D5D54C}",
+    "Name": "IEToEdge BHO",
+    "Version": null,
+    "Description": null,
+    "Author": null,
+    "HomepageUrl": null,
+    "Permissions": null,
+    "Type": "IE Extension"
+  },
+  {
+    "Browser": "Internet Explorer",
+    "Id": "{31D09BA0-12F5-4CCE-BE8A-2923E76605DA}",
+    "Name": "Skype for Business Browser Helper",
+    "Version": null,
+    "Description": null,
+    "Author": null,
+    "HomepageUrl": null,
+    "Permissions": null,
+    "Type": "IE Extension"
+  }
+]

@@ -8,7 +8,19 @@
     "Author": null,
     "HomepageUrl": null,
     "Permissions": null,
-    "Type": "IE Extension"
+    "Type": "Browser Helper Objects",
+    "Status": null,
+    "Title": null,
+    "Creator": null,
+    "InstallTime": null,
+    "UpdateTime": null,
+    "UpdateURL": null,
+    "SourceURL": null,
+    "AddonFilename": null,
+    "AddonFileCreatedTime": null,
+    "AddonFileModifiedTime": null,
+    "Size": null,
+    "ProfileFolder": null
   },
   {
     "Browser": "Internet Explorer",
@@ -19,6 +31,18 @@
     "Author": null,
     "HomepageUrl": null,
     "Permissions": null,
-    "Type": "IE Extension"
+    "Type": "Browser Helper Objects",
+    "Status": null,
+    "Title": null,
+    "Creator": null,
+    "InstallTime": null,
+    "UpdateTime": null,
+    "UpdateURL": null,
+    "SourceURL": null,
+    "AddonFilename": null,
+    "AddonFileCreatedTime": null,
+    "AddonFileModifiedTime": null,
+    "Size": null,
+    "ProfileFolder": null
   }
 ]
